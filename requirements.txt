@@ -1,0 +1,12 @@
+numpy
+pillow
+opencv-python
+rembg
+trimesh
+pyrender
+scikit-image
+matplotlib
+torch
+torchvision
+transformers
+tqdm
